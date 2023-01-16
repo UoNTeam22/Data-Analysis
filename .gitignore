@@ -66,3 +66,6 @@ target/
 
 # Notebook Checkpoints
 .ipynb_checkpoints/
+
+# Pass-through volume
+notebooks/data
