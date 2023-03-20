@@ -191,6 +191,3 @@ The model of Venezuela: [ 1.88997356e-02 -3.72812096e+01]
 The model of Vietnam: [ 2.30268112e-02 -4.54109549e+01]
 The model of Yemen: [ 1.80467742e-02 -3.55133613e+01]
 The model of Zambia: [ 2.27603384e-02 -4.47988502e+01]
-In [ ]:
-
-​
